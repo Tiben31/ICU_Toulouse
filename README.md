@@ -25,3 +25,9 @@ Le but du projet est d'utiliser ces datasets pour identifier des ICU, caractéri
 
 L'ensemble des notebooks (en code python) ayant servi à traiter les données des stations de relevé de température ainsi que d'autres datasets (entreprise, densité de population, OpenStreetMap, ...) sont disponibles dans ce repository Git.
 Les résulats sont visibles sur le Google site suivant : https://sites.google.com/view/icu-toulouse-studies/home
+
+Collaborateurs sur le projet:
+Slimane Lakehal  https://github.com/anarchy1989
+José Bravo  https://github.com/JoseBravo26
+Christophe Cazeneuve  https://github.com/Tittoff
+Benoit Audevard  https://github.com/Tiben31

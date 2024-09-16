@@ -24,4 +24,4 @@ De nombreux datasets concernant la métropole de Toulouse sont disponibles ici :
 Le but du projet est d'utiliser ces datasets pour identifier des ICU, caractériser les zones à ICU, trouver les éléments les plus contributifs à l'apparition d'un ICU.
 
 L'ensemble des notebooks (en code python) ayant servi à traiter les données des stations de relevé de température ainsi que d'autres datasets (entreprise, densité de population, OpenStreetMap, ...) sont disponibles dans ce repository Git.
-Les résulats sont visibles sur le Goolge site suivant : https://sites.google.com/view/icu-toulouse-studies/home
+Les résulats sont visibles sur le Google site suivant : https://sites.google.com/view/icu-toulouse-studies/home
